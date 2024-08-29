@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.28)
+project(Vetores__Strings__Structs__Funções_e_Recursividade)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Vetores__Strings__Structs__Funções_e_Recursividade main.cpp)
